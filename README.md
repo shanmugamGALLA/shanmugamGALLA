@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shanmugam 👋
 
-<!--
-**shanmugamGALLA/shanmugamGALLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 AI & Web Development Enthusiast | 🚀 Problem Solver  
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- Passionate about Artificial Intelligence and Web Development  
+- Actively solving problems on LeetCode and building projects  
+- Exploring cloud platforms like Render, MongoDB Atlas, and Vercel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Tech Stack
+- Languages: Python, JavaScript, C++  
+- Frameworks: React, Node.js, Django  
+- Tools: GitHub, Render, MongoDB, Vercel  
+
+## 🔹 Featured Projects
+- [AI Email Reply Generator](https://github.com/shanmugamGALLA/ai-email-reply-generator)  
+  *Generates professional email replies using AI*  
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmugamGALLA&show_icons=true&theme=radical)
+
+## 🌐 Connect With Me
+- [LinkedIn](www.linkedin.com/in/shanmugam-galla-915b96415)  
+- [LeetCode](https://leetcode.com/u/SHANMUGAM_GALLA/)  
