@@ -16,9 +16,8 @@
 - [AI Email Reply Generator](https://github.com/shanmugamGALLA/ai-email-reply-generator)  
   *Generates professional email replies using AI*  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmugamGALLA&show_icons=true&theme=radical)
-
 ## 🌐 Connect With Me
-- [LinkedIn](www.linkedin.com/in/shanmugam-galla-915b96415)  
-- [LeetCode](https://leetcode.com/u/SHANMUGAM_GALLA/)  
+- [LinkedIn](https://www.linkedin.com/in/shanmugam-galla-915b96415)
+- [LeetCode](https://leetcode.com/u/SHANMUGAM_GALLA)
+- [GitHub](https://github.com/shanmugamGALLA)
+ 
