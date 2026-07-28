@@ -8,7 +8,7 @@
 - Exploring cloud platforms like Render, MongoDB Atlas, and Vercel  
 
 ## 🔹 Tech Stack
-- Languages: Python, JavaScript, C++  
+- Languages: Python, JavaScript,   
 - Frameworks: React, Node.js, Django  
 - Tools: GitHub, Render, MongoDB, Vercel  
 
